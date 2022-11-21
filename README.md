@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
- <img alt="rocketcoffee Menu" title="rocketcoffeeMenu" src=".github/rocketcoffee.png" width="220px" />
+ <img alt="rocketcoffee Menu" title="rocketcoffeeMenu" src="./rocketcoffee.png" width="220px" />
 </p>
 
 <br>
@@ -28,7 +28,7 @@ O RocketCoffee é uma aplicação para auxiliar restaurantes a terem um Menu dig
 
 ## 🤳🏻 QRCode
 
-<img alt="link para o menu atrvés do QR Code" title="rocketcoffeeQrCode" src=".github/frame.png" width="220px" />
+<img alt="link para o menu atrvés do QR Code" title="rocketcoffeeQrCode" src="./frame.png" width="220px" />
 
 ## :memo: Licença
 
